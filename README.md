@@ -1,1 +1,56 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+## nextjs-blog
+A sample blog built with NextJS
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## Getting Started
+
+## Demo    
+
+[Run demo](nextjs-blog-harrytimbog.vercel.app)
+
+## Run Locally   
+
+Clone the project
+
+``` console
+git clone git@github.com:Harrytimbog/nextjs-blog.git
+```
+
+Go to the project directory
+
+``` console
+cd nextjs-blog
+```
+
+Install dependencies
+
+``` console
+npm install
+# or
+yarn install
+```
+
+First, run the development server:
+
+```bash
+next dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Learn More
+
+
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Feedback  
+
+Arigbede Timilehin Emmanuel - @Harrytimbog - harriemannie@gmail.com
+
+Project Link: git@github.com:Harrytimbog/nextjs-blog.git
+
+Demo Link: nextjs-blog-harrytimbog.vercel.app
